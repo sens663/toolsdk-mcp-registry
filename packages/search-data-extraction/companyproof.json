@@ -15,10 +15,7 @@
       "url": "https://companyproof.ai/v2/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "company.read",
-          "proof.write"
-        ]
+        "scopes": ["company.read", "proof.write"]
       }
     }
   ]
